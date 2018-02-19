@@ -4,4 +4,4 @@ R-CNN (Regions with CNN Features) is an object detection method that combines re
 
 [The paper's authors' implementation of R-CNN is in Matlab](https://github.com/rbgirshick/rcnn). This implementation is a pedagogical one. It's not optimized for speed.
 
-As of February 17, 2018, the implementation is still not done.
+This is a work in progress.
